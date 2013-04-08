@@ -46,5 +46,6 @@
 		</table>
 		</s:form>
 		<h1>Hello World</h1>
+		<h1>Hello World wurihui</h1>
 	</body>
 </html>
